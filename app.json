@@ -1,8 +1,8 @@
 {
 	"maintenance": false,
-	"build": 14001,
-	"build_codename": "v1.4.0-beta1",
-	"update_info": "Fixes 🔧\n- FlixHQ emergency fix\n- Fixes issue #54: android-14 broadcast service support.",
+	"build": 20001,
+	"build_codename": "v2.0.0",
+	"update_info": "# 2.0.0 - The Providers System Update\n\nI would like to introduce to y'all the latest stable version of Flixclusive!\n\nI don't got much to say but It's been months since the last major update and I had promised to make a lot of changes and I am still doing that until now. We are now on the initial phases of the provider system, hopefully, we can get more creative from here on out and make the app community-friendly to other devs!\n\nI thank you all for the patient support!",
 	"update_url": "https://github.com/rhenwinch/Flixclusive/releases/latest/download/flixclusive-release.apk",
 	"tmdb_api_key": "8d6d91941230817f7807d643736e8a49"
 }

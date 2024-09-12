@@ -253,127 +253,127 @@
             "id": 28,
             "type": "movie",
             "name": "Action",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=28"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=28"
         },
         {
             "id": 10759,
             "type": "tv",
             "name": "Action & Adventure",
-            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&with_genres=10759"
+            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=10759"
         },
         {
             "id": 12,
             "type": "movie",
             "name": "Adventure",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=12"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=12"
         },
         {
             "id": 16,
             "type": "all",
             "name": "Animation",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=16"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=16"
         },
         {
             "id": 35,
             "type": "all",
             "name": "Comedy",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=35&without_genres=10763,10767"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=35&without_genres=10763,10767"
         },
         {
             "id": 80,
             "type": "all",
             "name": "Crime",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=80"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=80"
         },
         {
             "id": 99,
             "type": "all",
             "name": "Documentary",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=99"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=99"
         },
         {
             "id": 18,
             "type": "all",
             "name": "Drama",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=18"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=18"
         },
         {
             "id": 10751,
             "type": "all",
             "name": "Family",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=10751"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=10751"
         },
         {
             "id": 14,
             "type": "movie",
             "name": "Fantasy",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=14"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=14"
         },
         {
             "id": 36,
             "type": "movie",
             "name": "History",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=36"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=36"
         },
         {
             "id": 27,
             "type": "movie",
             "name": "Horror",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=27"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=27"
         },
         {
             "id": 9648,
             "type": "all",
             "name": "Mystery",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=9648"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=9648"
         },
         {
             "id": 10762,
             "type": "tv",
             "name": "Kids",
-            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&with_genres=10762"
+            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=10762"
         },
         {
             "id": 10764,
             "type": "tv",
             "name": "Reality",
-            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&with_genres=10764"
+            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=10764"
         },
         {
             "id": 10749,
             "type": "all",
             "name": "Romance",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=10749"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=10749"
         },
         {
             "id": 878,
             "type": "movie",
             "name": "Sci-Fi",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=878"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=878"
         },
         {
             "id": 10765,
             "type": "tv",
             "name": "Sci-Fi & Fantasy",
-            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&with_genres=10765"
+            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=10765"
         },
         {
             "id": 53,
             "type": "movie",
             "name": "Thriller",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=53"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=53"
         },
         {
             "id": 10752,
             "type": "movie",
             "name": "War",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&with_genres=10752"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200&with_genres=10752"
         },
         {
             "id": 37,
             "type": "all",
             "name": "Western",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&with_genres=37"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&first_air_date.gte=1990-01-01&vote_count.gte=200&with_genres=37"
         }
     ],
     "type": [
@@ -381,13 +381,13 @@
             "name": "TV Shows",
             "id": -1,
             "type": "tv",
-            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&without_genres=10763,10767"
+            "query": "discover/tv?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&first_air_date.gte=1990-01-01&vote_count.gte=200&without_genres=10763,10767"
         },
         {
             "name": "Movies",
             "id": -1,
             "type": "movie",
-            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01"
+            "query": "discover/movie?include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&primary_release_date.gte=1990-01-01&vote_count.gte=200"
         }
     ]
 }
