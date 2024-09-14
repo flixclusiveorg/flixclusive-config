@@ -1,8 +1,8 @@
 {
 	"maintenance": false,
-	"build": 20001,
-	"build_codename": "v2.0.0",
-	"update_info": "# 2.0.0 - The Providers System Update\n\nI would like to introduce to y'all the latest stable version of Flixclusive!\n\nI don't got much to say but It's been months since the last major update and I had promised to make a lot of changes and I am still doing that until now. We are now on the initial phases of the provider system, hopefully, we can get more creative from here on out and make the app community-friendly to other devs!\n\nI thank you all for the patient support!",
-	"update_url": "https://github.com/rhenwinch/Flixclusive/releases/latest/download/flixclusive-release.apk",
+	"build": 20100,
+	"build_codename": "v2.0.1",
+	"update_info": "##### _NOTE: Android TV is incomplete, the providers on this port are not yet installable. Though, you could test it now._\n\n---\n\n### 🐞 Known issues\n- TV focus crashes. Compose TV is bugged af; we wait til the new update.\n\n### :construction_worker: Build System\n- [`5fe0a77`](https://github.com/flixclusiveorg/Flixclusive/commit/5fe0a7790fadf4534b0cf09304caed1da4ec1979) - **app**: update to 2.0.1 *(commit by @rhenwinch)*\n\n---\n\n### Checksums\n\n| Variant | SHA-256 |\n| ------- | ------- |\n| release | 36d79d41c242a375df32fffdca528ad8d32e2938c4d40728ba29076ffa8c057d |\n",
+	"update_url": "https://github.com/flixclusiveorg/Flixclusive/releases/latest/download/flixclusive-release.apk",
 	"tmdb_api_key": "8d6d91941230817f7807d643736e8a49"
 }
